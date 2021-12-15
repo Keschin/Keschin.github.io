@@ -10,8 +10,12 @@
     top: 18px;
     left: 10px;
   }
-  .header p {
+  .body p {
       position: relative;
       top: 18px;
       left: 10px;
+  }
+  .body img {
+      width:100px;
+      width:100px;
   }
