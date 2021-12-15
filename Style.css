@@ -10,3 +10,6 @@
     top: 18px;
     left: 10px;
   }
+  .p {
+      position: relative;
+  }
